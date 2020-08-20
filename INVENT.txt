@@ -1,0 +1,17 @@
+11111widgets, small      1001000CT001050
+11112widgets,med         1501200BW002050
+11115widgets, large      1001000BW002050
+11122connectors          2500200FP009050
+11124braces              1500200MP007100
+11125braces, brass       1500300MP007100
+11129braces, bronze      1001000MP007100
+12111widgets, small      1001000CT001050
+12112widgets,med         1501200BW002250
+12115widgets, large      1001000BW002150
+12122connectors          2500200FP009350
+13125braces, brass       1500300MP007100
+13129braces, bronze      1001000MP007100
+14111widgets, small      1001000CT001050
+14112widgets,med         1501200BW002250
+14115widgets, large      1001000BW002150
+14122connectors          2500200FP009350
